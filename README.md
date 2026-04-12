@@ -7,3 +7,10 @@ Assignment1(26.03.28)/
 ├── requirements.txt  
 ├── test.py            
 └── results/
+
+Assignment2(26.04.12)/  
+├── README.md          
+├── report.pdf         
+├── requirements.txt  
+├── test.py            
+└── results/
