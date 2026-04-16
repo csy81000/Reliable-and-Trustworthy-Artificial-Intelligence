@@ -1,4 +1,4 @@
-# Reliable and Trustworthy Artificial Intelligence - Assignment #1
+# Reliable and Trustworthy Artificial Intelligence - Assignment #2
 
 ## 1. 개발 환경 설정 (Setup Instructions)
 본 프로젝트는 DeepXplore의 원본 환경을 최대한 유지하면서, 현대적인 아나콘다 환경에서 구동 가능하도록 패키지 버전을 조정하였습니다.
