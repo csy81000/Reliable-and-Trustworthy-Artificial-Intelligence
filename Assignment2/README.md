@@ -1,4 +1,4 @@
-# Reliable and Trustworthy Artificial Intelligence - Assignment #1
+# Reliable and Trustworthy Artificial Intelligence - Assignment #2
 
 DeepXplore를 이용한 신경망 차분 테스트(Differential Testing) 및 적대적 공격과의 연계 분석
 
