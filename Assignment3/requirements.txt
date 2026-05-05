@@ -1,0 +1,22 @@
+Python >= 3.8, <= 3.12
+
+
+# --- Core Marabou Dependencies (pyproject.toml 기준) ---
+numpy>=1.21.0,<2
+onnx>=1.15.0,<2
+onnxruntime>=1.12.0,<2
+
+# --- Model 학습 및 변환 ---
+torch>=2.0.0
+torchvision>=0.15.0
+
+# --- ONNX 변환 도구 ---
+onnxscript>=0.1.0
+
+# --- 테스트 및 검증 ---
+pytest>=7.2.1,<8
+pytest-cov>=4.0.0,<5
+
+# --- 유틸리티 ---
+scipy>=1.9.0
+matplotlib>=3.5.0
