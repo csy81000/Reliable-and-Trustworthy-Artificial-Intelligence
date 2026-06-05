@@ -21,3 +21,10 @@ Assignment3(26.05.09)/
 ├── requirements.txt  
 ├── test.py            
 └── results/
+
+Assignment4(26.06.05)/  
+├── README.md          
+├── report.pdf         
+├── requirements.txt  
+├── test.py            
+└── results/
