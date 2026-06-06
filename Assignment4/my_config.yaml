@@ -1,0 +1,15 @@
+
+model:
+  # 핵심 수정: model_defs.py 안의 AssignmentModel을 불러오도록 Customized 문법 사용
+  name: Customized("model_defs", "AssignmentModel")
+  path: external_model.pth
+data:
+  dataset: MNIST
+  std: [1.0]
+  mean: [0.0]
+specification:
+  epsilon: 0.01  
+solver:
+  batch_size: 64
+  beta-crown:
+    iteration: 10
